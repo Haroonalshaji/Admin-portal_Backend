@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "12",
+      "name": "Haroon Al Shaji",
+      "email": "haroonalshaji@gmail.com",
+      "active": ""
+    },
+    {
+      "id": "2",
+      "name": "Aswin",
+      "email": "mynameaswin@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "Sanjay",
+      "email": "snjy04@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "5",
+      "name": "Nighil",
+      "email": "nighil@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "7",
+      "name": "Prajith",
+      "email": "pprasad@gmail.com",
+      "active": "0"
+    }
+  ]
+}
